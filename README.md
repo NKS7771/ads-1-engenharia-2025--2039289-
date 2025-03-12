@@ -134,9 +134,41 @@ GitHub é muito popular na comunidade de código aberto, e a interface é amigá
 GitLab é muito popular entre empresas e equipes que desejam mais controle sobre o ciclo de vida do desenvolvimento, pois oferece uma solução end-to-end, desde o planejamento até o deploy do código.
 
 ### 🎮 Jira / Trello  
-O Trello, oferece listas de tarefas simples e é uma ferramenta de gerenciamento de tarefas e projetos fácil de usar, para empresas de pequeno e médio porte.
 
-O Jira oferece uma ferramenta abrangente de gerenciamento e rastreamento de projetos, para projetos de maior escala.
+**TRELLO:** O Trello é uma ferramenta de gerenciamento de projetos baseada no sistema Kanban , que usa quadros, listas e cartões para organizar tarefas de forma visual e intuitiva.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-O Trello é a ferramenta flexível de gerenciamento de trabalho em que os times podem criar planos, colaborar em projetos, organizar fluxos de trabalho e acompanhar o progresso com visualização, produtividade e gratificação.
+Como ajudar?
+
+✅ Visualização intuitiva : Os quadros permitem que as equipes visualizem o fluxo de trabalho facilmente, acompanhando tarefas de forma clara.
+
+✅ Organização simples : Cada cartão pode representar uma tarefa e conter especificações específicas, prazos, anexos, etiquetas e checklists para facilitar o acompanhamento.
+
+✅ Colaboração ágil : Os membros da equipe podem comentar, adicionar atualizações, esperar responsáveis ​​e modificar o status das tarefas em tempo real.
+
+✅ Flexibilidade : Pode ser usado para projetos pessoais, pequenos tempos e fluxos de trabalho simples, adaptando-se a diversas necessidades.
+
+✅ Integração com outras ferramentas : Suporte à integração com Google Drive, Slack, GitHub e várias outras plataformas.
+
+
+**JIRA:** O Jira é uma ferramenta mais robusta, focada em gerenciamento de projetos ágeis , amplamente utilizada por equipes de desenvolvimento de software e vezes que precisa de um controle mais detalhado.
+Como ajudar?
+
+🚀 Suporte a metodologias ágeis : Scrum, Kanban e Scrumban podem ser implementadas no Jira, permitindo que as equipes sigam diferentes abordagens para gerenciar seus projetos.
+
+🚀 Fluxos de trabalho personalizáveis : Permite definir processos de aprovação, regras, automações específicas e status personalizados para cada tipo de tarefa.
+
+🚀 Monitoramento detalhado : Oferece relatórios avançados, gráficos de burndown, velocidade e controle de tempo para acompanhar o progresso das tarefas e identificar gargalos.
+
+🚀 Integração com DevOps : Se conecta a ferramentas como Bitbucket, GitHub, Confluence e outras soluções externas para o desenvolvimento de software.
+
+🚀 Gerenciamento de backlog e sprints : Facilita a organização de demandas e o planejamento de entregas, otimizando o fluxo de trabalho da equipe.
+
+💡 Ideal para: Equipes de desenvolvimento, tempos que seguem metodologias ágeis e projetos complexos que desbloqueiam controle avançado sobre tarefas, métricas e fluxo de trabalho.
+
+Se você precisa de simplicidade e visualização intuitiva , o Trello é a melhor escolha.
+
+Se o objetivo é um gerenciamento mais detalhado, com suporte a metodologias ágeis e controle avançado de tarefas , o Jira é mais indicado.
+
+Ambas as ferramentas podem ser usadas juntas, dependendo da necessidade do tempo! 🎯
+
+
