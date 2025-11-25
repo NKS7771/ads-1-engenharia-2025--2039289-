@@ -1,4 +1,3 @@
-# ads-1-engenharia-2025--2039289-
 
 # 📚 Diário de Engenharia de Software - {Nikolas Pedro das Neves}
 
